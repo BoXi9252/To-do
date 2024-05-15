@@ -1,0 +1,10 @@
+.todos-comp-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1230px;
+  margin-top: 50px;
+}
+.todos-comp-container .todos-comp-empty {
+  width: 100%;
+  text-align: center;
+}
